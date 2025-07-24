@@ -1,4 +1,4 @@
-#include <reg51.h>
+#include<reg51xd2.h>
 
 sbit LED = P2^0;  // Connect LED to pin P2.0
 
