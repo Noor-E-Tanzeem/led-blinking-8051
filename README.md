@@ -17,8 +17,3 @@ This project includes only the source code.
 It hasn’t been simulated or tested on real hardware yet. 
 Intended purely for learning and practice as part of my embedded systems journey.
 
-Author
-
-Noor-E-Tanzeem
-ECE DSCE, Bangalore  
-Learning Embedded C, GitHub, and project building one step at a time.
